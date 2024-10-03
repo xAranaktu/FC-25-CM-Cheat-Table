@@ -1,0 +1,16 @@
+v25.1.0:
+    - Teams Editor & Players Editor (No FUT Clone this year)
+    - Non-CM Related:
+        - Dont Pause Game on AltTab
+    - Club Finances -> Transfer Budget
+    - Training -> Manager CM -> Players Development:
+        - Bonus Exp
+        - Exp Multiplier
+        - Boost only players
+    - Hire Scouts -> Free 5/5 Scouts
+    - Job Offers
+    - Mass Edit Fitness, Morale, Form, Sharpness
+    - Youth Academy
+    - Match Settings:
+        - Time of Day
+        - Weather
