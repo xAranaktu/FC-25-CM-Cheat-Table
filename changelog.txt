@@ -1,3 +1,9 @@
+v25.1.1:
+    - Added "Play As Player" section
+    - Added new morale level (Complacent)
+    - Fixed saving user team players attributes 
+    - Fixed some issues with player editor
+
 v25.1.0:
     - Teams Editor & Players Editor (No FUT Clone this year)
     - Non-CM Related:
