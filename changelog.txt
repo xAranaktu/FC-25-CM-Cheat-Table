@@ -1,3 +1,9 @@
+v25.1.2:
+    - Added "Change Stadium" to "Match Settings"
+    - Added "Side Changer" section (CPUvsCPU)
+    - Added "Gameplay" section
+    - Fixed "Youth Academy" -> "Age Range"
+
 v25.1.1:
     - Added "Play As Player" section
     - Added new morale level (Complacent)
