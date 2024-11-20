@@ -1,3 +1,8 @@
+v25.1.4:
+    - Added to "Youth Academy" -> "Generate players with custom ID"
+    - "Unlimited Substitutions" now allows you to sub 9 players at once instead of 7
+    - Added camera pointers to "Game Settings" in "Non-CM Related"
+
 v25.1.3:
     - Added to "Transfer HUB" -> "Allow Transfer approach" & "Allow Loan approach"
     - Added "Player Contract" -> "Disable negotiation status checks"
