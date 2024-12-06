@@ -1,3 +1,6 @@
+v25.1.5:
+    - Fixed "Gameplay" -> "Match Timer" script
+
 v25.1.4:
     - Added to "Youth Academy" -> "Generate players with custom ID"
     - "Unlimited Substitutions" now allows you to sub 9 players at once instead of 7
