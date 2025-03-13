@@ -1,3 +1,6 @@
+v25.1.6:
+    - Fixed "Gameplay" section
+
 v25.1.5:
     - Fixed "Gameplay" -> "Match Timer" script
 
